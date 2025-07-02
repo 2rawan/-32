@@ -109,7 +109,7 @@ body{
     color: var(--text-light);
     transition: 0.3s;
 }
-.section__card:hover::::before{
+.section__card:hover::before{
     width: 400%;
 }
 .section__card:hover :is(h4,h5){
